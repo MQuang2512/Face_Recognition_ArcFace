@@ -1,0 +1,7 @@
+video_test.py
+datasets/
+!datasets/.gitkeep
+*.pyc
+*.onnx
+*.pth
+*.tar
